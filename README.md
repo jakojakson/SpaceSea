@@ -12,7 +12,7 @@ artigos para poder ter uma base concreta para firmar nossas ideias. Depois de mu
 
 Foi realmente emocionante participar de um hackthon, além de receber o premio de 2° lugar no meu primeiro evento do gênero, graças a perfeita harmonia da [minha equipe](https://2019.spaceappschallenge.org/challenges/earths-oceans/trash-cleanup/teams/c-137/members) e o talento de todos.
 
-Neste repositório deixo imagens do SPaceSea (.apk) que foi apresentado junto da solução no evento. 
+Neste repositório deixo imagens do SpaceSea (.apk) que foi apresentado junto da solução no evento. 
 
 Minha equipe maravilhosa, engraçada e que transborda talento e inteligência.
 
