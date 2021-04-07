@@ -3,6 +3,7 @@ App (.apk) SpaceSea
 
 ### jakojakson - Jakson Lohan Bittencourt
 -----
+![](https://www.spaceappsbrazil.org/wp-content/uploads/2020/08/NASA_SPACE_APPS-8-1.png)
 ### "Desde a sua criação em 2012, o **International Space Apps Challenge da NASA** se tornou o maior hackathon mundial do mundo, envolvendo milhares de cidadãos em todo o mundo a usar os dados abertos da NASA para criar soluções inovadoras para os desafios que enfrentamos na Terra e no espaço."
 -----
 No hackathon tivemos que atacar um dos [desafios](https://2019.spaceappschallenge.org/challenges), foi difícil pensar em soluções em tão pouco tempo, tivemos que ler muitos 
