@@ -1,7 +1,7 @@
 # SpaceSea
 App (.apk) SpaceSea 
 
-### Nazarique - Henrique Nazário
+### jakojakson - Jakson Lohan Bittencourt
 -----
 Em 2018, participei do meu primeiro hackathon **International Space Apps Challenge da NASA**, a experiência foi inesquecível.
 
